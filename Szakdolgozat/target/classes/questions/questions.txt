@@ -1,0 +1,61 @@
+Szem teszt
+Ha valaki beszélgetés közben lefelé néz az mit árul el?
+Szégyellős;Dühös;Kíváncsi;Fél
+1
+A válasz: Szégyellős. Általában az emberek, akik nem tartják a szemkontaktust beszélgetés közben, azok kevés önbizalommal rendelkeznek és nehezen fejezik ki a véleményüket nyíltan.
+null
+Hangszint teszt
+Ha valaki beszéd közben a mondat végén sokszor leviszi a hangját akkor mire következtethetünk?
+Boldog;Fáradt;Unott;Magabiztos
+4
+A válasz:  Magabiztos. Általában a férfiaknál könnyebben megfigyelhető. Még kimért beszédstílussal szokott párosulni.
+null
+Kartartás teszt
+Ha valaki beszéd közben a karjait keresztbe rakja és beszédével hangsúlyozza,hogy jókat mondasz mit árul el róla?
+Nyitott rád;Hazug;null;null
+2
+A válasz:  Hazug. Sajnos a szavakat lehet manipulálni, ám a test reakcióit tudatalattinkkal irányítjuk.
+null
+Kézfogás teszt
+Ha egyenrangúként akarsz fellépni hogyan fogj kezet?
+Ahogy sikerül;Szemébe nézve, finoman mégis határozottan;Megvárom, amíg kinyújtja és megfogom jó erősen;Nem fogom meg a kezét
+2
+A válasz:  Szemébe nézve, finoman mégis határozottan. Érdemes nekünk kinyújtani elsőnek a kezdeményezés végett és pár másodpercig tartani a szemkontaktust.
+null
+Testtartás teszt
+Milyen a magabiztos testtartás?
+Nem figyelek rá, belülről jön;Fej egyenes, hát szintén,kezek enyhén lengenek;Csak az arc számít,testtartás nem;Görnyedt és padlót nézett
+2
+A válasz:  Fej egyenes ,hát szintén ,kezek enyhén lengenek. Mindenképpen fontos a tudatos odafigyelés, hisz a belső változtatások a külső kisugárzásra is hatással vannak.
+null
+Melyik nő hazudik?
+null
+Egyes;Kettes;Hármas;Négyes
+4
+A válasz: Négyes , a száj eltakarása egyértelmű jel beszéd közben a hazugságra.(vagy tud valamit,amit nem mond el)
+second_pic.jpg
+Képelemzés - Mit mond el a kép neked?
+null
+Érdeklődő,Unatkozik,Nyitott;Nyitott,Érdeklődő,Boldog;Zárt,Unatkozik,Távozásra kész;Zárt,Távozásra kész,Boldog
+2
+A válasz: Nyitott,érdeklődő,boldog. A kéz tartása jelzi ,hogy nyitott feléd ,érdeklődő,boldog szemekkel néz rád és a lábtartás is feléd néz.
+third_pic.jpg
+Személyiségtípus teszt
+Extrovertált vagy introvertált ? Nyílt,barátkozó,mosolygó,illedelmes és könnyen megérti magát másokkal.
+Introvertált;Extrovertált;null;null
+2
+A válasz:  Extrovertált. A szociális ,könnyen szimpátiát létesítő egyének egyszinten extrovertáltak. (lehetséges ,hogy kis mértékben azok introvertáltak is)
+null
+Hangulat elemzés
+Mit tennél, ha a barátod vagy barátnőd rossz kedvű?
+Semmit;Megviccelném;Meghallgatnám;Elkezdek magamról beszélni
+2
+A válasz:  Megviccelném. Ugyanis egy újabb érzelem felszínre törése gyengíti vagy akár felül is írja a jelenlegi érzelmi állapotunkat.
+null
+Ruházat teszt
+Mit árul el valakiről, akinek tiszta, ápolt cipője van?
+Belső lelkét tükrözi;Eleganciát;Tisztaság kedvelő;Ápolatlan
+1
+A válasz:  Belső lelkét tükrözi. Általában a belsőnket fejezzük ki az ápoltságunkkal.
+null
+vége
